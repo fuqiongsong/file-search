@@ -1,1 +1,1 @@
-*.classtargetlogs*.log*.iml*.iprtest-output# Package Files #*.jar*.war*.ear# Eclipse Files.classpath.project.settings/.settings/
+*.class/target/logs*.log*.yml/test-output/# Package Files #*.jar*.war*.ear# Eclipse Files.classpath.project.settings/
